@@ -7,3 +7,8 @@ I installed following packages:
 - pandas==2.2.3
 - scikit_learn==1.6.1
 - seaborn==0.13.2
+
+# to run:
+```
+ .\.venv\Scripts\python.exe -m jupyter notebook
+ ```

@@ -8,3 +8,4 @@ plotly==6.0.1
 pillow==11.1.0
 pyod==2.0.4
 statsmodels==0.14.4
+openpyxl==3.1.5
